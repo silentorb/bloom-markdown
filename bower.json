@@ -1,0 +1,15 @@
+{
+  "name": "bloom-markdown",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/lib",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "markdown-it": "~4.4.0"
+  }
+}
